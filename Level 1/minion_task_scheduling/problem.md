@@ -16,6 +16,7 @@ To provide a Java solution, edit solution.java
 ### Test Cases
 
 #### Test Case 1
+
 Inputs:
 
     (int list) data = [1, 2, 3]
