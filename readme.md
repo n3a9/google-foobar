@@ -17,3 +17,8 @@ Level 2
 
 Level 3
 - Queue to Do
+- Find the Access Codes
+- The Grandest Staircase Of Them All
+
+At this point, I was offered to send my solutions to a Google recruiter. Checkout the [questionnaire.md](https://github.com/n3a9/google-foobar/blob/master/Level%203/questionnaire.md) for details.
+

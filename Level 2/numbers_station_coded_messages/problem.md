@@ -1,5 +1,7 @@
 ## Numbers Station Coded Messages
 
+Time to solve: 48 hours.
+
 ### Description
 
 When you went undercover in Commander Lambda's organization, you set up a coded messaging system with Bunny Headquarters to allow them to send you important mission updates. Now that you're here and promoted to Henchman, you need to make sure you can receive those messages - but since you need to sneak them past Commander Lambda's spies, it won't be easy!

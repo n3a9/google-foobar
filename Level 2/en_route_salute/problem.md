@@ -1,5 +1,7 @@
 ## En Route Salute
 
+Time to solve: 72 hours.
+
 ### Description
 
 Commander Lambda loves efficiency and hates anything that wastes time. She's a busy lamb, after all! She generously rewards henchmen who identify sources of inefficiency and come up with ways to remove them. You've spotted one such source, and you think solving it will help you build the reputation you need to get promoted.
