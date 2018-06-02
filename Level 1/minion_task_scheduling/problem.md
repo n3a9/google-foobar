@@ -20,38 +20,38 @@ To provide a Java solution, edit solution.java
 #### Test Case 1
 
 Inputs:
-
+```
     (int list) data = [1, 2, 3]
-
     (int) n = 0
-
+```
 Output:
-
+```
     (int list) []
+```
 
 #### Test Case 2
 
 Inputs:
-
+```
     (int list) data = [1, 2, 2, 3, 3, 3, 4, 5, 5]
-
     (int) n = 1
-
+```
 Output:
-
+```
     (int list) [1, 4]
+```
 
 #### Test Case 3
 
 Inputs:
-
+```
     (int list) data = [1, 2, 3]
-
     (int) n = 6
-
+```
 Output:
-
+```
     (int list) [1, 2, 3]
+```
 
 ### Constraints
 
@@ -68,4 +68,3 @@ Third-party libraries, input/output operations, spawning threads or processes an
 Your code will run inside a Python 2.7.6 sandbox.
 
 Standard libraries are supported except for bz2, crypt, fcntl, mmap, pwd, pyexpat, select, signal, termios, thread, time, unicodedata, zipimport, zlib.
-
