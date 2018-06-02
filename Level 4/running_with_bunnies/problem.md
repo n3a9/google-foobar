@@ -26,13 +26,13 @@ For instance, in the case of
 and a time limit of 1, the five inner array rows designate the starting point, bunny 0, bunny 1, bunny 2, and the bulkhead door exit respectively. You could take the path:
 
 ```
-  Start End Delta Time Status
-   -      0       -     1        Bulkhead initially open
-   0      4      -1     2
-   4      2       2     0
-   2      4      -1     1
-   4      3       2    -1        Bulkhead closes
-   3      4      -1     0        Bulkhead reopens; you and the bunnies exit
+Start End Delta Time Status
+ -      0       -     1        Bulkhead initially open
+ 0      4      -1     2
+ 4      2       2     0
+ 2      4      -1     1
+ 4      3       2    -1        Bulkhead closes
+ 3      4      -1     0        Bulkhead reopens; you and the bunnies exit
 ```
 
 With this solution, you would pick up bunnies 1 and 2. This is the best combination for this space station hallway, so the answer is [1, 2].
@@ -48,24 +48,24 @@ To provide a Java solution, edit solution.java
 
 Inputs:
 ```
-    (int) times = [[0, 1, 1, 1, 1], [1, 0, 1, 1, 1], [1, 1, 0, 1, 1], [1, 1, 1, 0, 1], [1, 1, 1, 1, 0]]
-    (int) time_limit = 3
+(int) times = [[0, 1, 1, 1, 1], [1, 0, 1, 1, 1], [1, 1, 0, 1, 1], [1, 1, 1, 0, 1], [1, 1, 1, 1, 0]]
+(int) time_limit = 3
 ```
 Output:
 ```
-    (int list) [0, 1]
+(int list) [0, 1]
 ```
 
 #### Test Case 2
 
 Inputs:
 ```
-    (int) times = [[0, 2, 2, 2, -1], [9, 0, 2, 2, -1], [9, 3, 0, 2, -1], [9, 3, 2, 0, -1], [9, 3, 2, 2, 0]]
-    (int) time_limit = 1
+(int) times = [[0, 2, 2, 2, -1], [9, 0, 2, 2, -1], [9, 3, 0, 2, -1], [9, 3, 2, 0, -1], [9, 3, 2, 2, 0]]
+(int) time_limit = 1
 ```
 Output:
 ```
-    (int list) [1, 2]
+(int list) [1, 2]
 ```
 
 ### Constraints

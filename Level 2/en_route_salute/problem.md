@@ -26,22 +26,22 @@ To provide a Java solution, edit solution.java
 
 Inputs:
 ```
-    (string) s = ">----<"
+(string) s = ">----<"
 ```
 Output:
 ```
-    (int) 2
+(int) 2
 ```
 
 #### Test Case 2
 
 Inputs:
- ```
-   (string) s = "<<>><"
+```
+(string) s = "<<>><"
 ```
 Output:
 ```
-    (int) 4
+(int) 4
 ```
 
 ### Constraints

@@ -23,22 +23,22 @@ To provide a Java solution, edit solution.java
 
 Inputs:
 ```
-    (int list) l = [1, 1, 1]
+(int list) l = [1, 1, 1]
 ```
 Output:
 ```
-    (int) 1
+(int) 1
 ```
 
 #### Test Case 2
 
 Inputs:
 ```
-    (int list) l = [1, 2, 3, 4, 5, 6]
+(int list) l = [1, 2, 3, 4, 5, 6]
 ```
 Output:
 ```
-    (int) 3
+(int) 3
 ```
 
 ### Constraints

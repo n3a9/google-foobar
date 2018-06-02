@@ -44,24 +44,24 @@ To provide a Java solution, edit solution.java
 
 Inputs:
 ```
-    (int) start = 0
-    (int) length = 3
+(int) start = 0
+(int) length = 3
 ```
 Output:
 ```
-    (int) 2
+(int) 2
 ```
 
 #### Test Case 2
 
 Inputs:
 ```
-    (int) start = 17
-    (int) length = 4
+(int) start = 17
+(int) length = 4
 ```
 Output:
 ```
-    (int) 14
+(int) 14
 ```
 
 ### Constraints

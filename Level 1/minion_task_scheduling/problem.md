@@ -21,36 +21,36 @@ To provide a Java solution, edit solution.java
 
 Inputs:
 ```
-    (int list) data = [1, 2, 3]
-    (int) n = 0
+(int list) data = [1, 2, 3]
+(int) n = 0
 ```
 Output:
 ```
-    (int list) []
+(int list) []
 ```
 
 #### Test Case 2
 
 Inputs:
 ```
-    (int list) data = [1, 2, 2, 3, 3, 3, 4, 5, 5]
-    (int) n = 1
+(int list) data = [1, 2, 2, 3, 3, 3, 4, 5, 5]
+(int) n = 1
 ```
 Output:
 ```
-    (int list) [1, 4]
+(int list) [1, 4]
 ```
 
 #### Test Case 3
 
 Inputs:
 ```
-    (int list) data = [1, 2, 3]
-    (int) n = 6
+(int list) data = [1, 2, 3]
+(int) n = 6
 ```
 Output:
 ```
-    (int list) [1, 2, 3]
+(int list) [1, 2, 3]
 ```
 
 ### Constraints
