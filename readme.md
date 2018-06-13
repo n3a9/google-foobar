@@ -8,19 +8,19 @@ Checkout [journal.md](https://github.com/n3a9/google-foobar/blob/master/journal.
 
 Inside each level is a challenge folder with a problem file describing the challenge and constraints, and my solution to the challenge.
 
-So far:
-
-Level 1
+### Level 1
 - [Minion Task Scheduling](https://github.com/n3a9/google-foobar/tree/master/Level%201/minion_task_scheduling)
 
-Level 2
+### Level 2
 - [Numbers Station Coded Messages](https://github.com/n3a9/google-foobar/tree/master/Level%202/numbers_station_coded_messages)
 - [En Route Salute](https://github.com/n3a9/google-foobar/tree/master/Level%202/en_route_salute)
 
-Level 3
+### Level 3
 - [Queue to Do](https://github.com/n3a9/google-foobar/tree/master/Level%203/queue_to_do)
 - [Find the Access Codes](https://github.com/n3a9/google-foobar/tree/master/Level%203/find_the_access_codes)
 - [The Grandest Staircase Of Them All](https://github.com/n3a9/google-foobar/tree/master/Level%203/the_grandest_staircase_of_them_all)
 
 At this point, I was offered to send my solutions to a Google recruiter. Checkout the [questionnaire.md](https://github.com/n3a9/google-foobar/blob/master/Level%203/questionnaire.md) for details.
 
+### Level 4
+- [Running With Bunnies](https://github.com/n3a9/google-foobar/tree/master/Level%204/running_with_bunnies)
