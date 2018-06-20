@@ -16,7 +16,7 @@ To help you identify the coded broadcasts, Bunny HQ has agreed to the following 
 
 - Each list l will contain at least 1 element but never more than 100.
 - Each element of l will be between 1 and 100.
-- t will be a positive integer, not exceeding 250.
+- It will be a positive integer, not exceeding 250.
 - The first element of the list l has index 0.
 - For the list returned by answer(l, t), the start index must be equal or smaller than the end index.
 
@@ -25,6 +25,7 @@ Remember, to throw off Lambda's spies, Bunny HQ might include more than one cont
 ### Languages
 
 To provide a Python solution, edit solution.py
+
 To provide a Java solution, edit solution.java
 
 ### Test Cases

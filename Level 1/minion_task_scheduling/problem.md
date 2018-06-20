@@ -13,6 +13,7 @@ Write a function called answer(data, n) that takes in a list of less than 100 in
 ### Languages
 
 To provide a Python solution, edit solution.py
+
 To provide a Java solution, edit solution.java
 
 ### Test Cases
