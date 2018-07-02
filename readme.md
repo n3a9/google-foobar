@@ -24,3 +24,4 @@ At this point, I was offered to send my solutions to a Google recruiter. Checkou
 
 ### Level 4
 - [Running With Bunnies](https://github.com/n3a9/google-foobar/tree/master/Level%204/running_with_bunnies)
+- [Bringing a Gun to a Guard Fight](https://github.com/n3a9/google-foobar/tree/master/Level%204/bringing_a_gun_to_a_guard_fight)

@@ -1,8 +1,8 @@
-### Running with Bunnies
+## Running with Bunnies
 
 Time to solve: 360 hours.
 
-#### Description
+### Description
 
 You and your rescued bunny prisoners need to get out of this collapsing death trap of a space station - and fast! Unfortunately, some of the bunnies have been weakened by their long imprisonment and can't run very fast. Their friends are trying to help them, but this escape would go a lot faster if you also pitched in. The defensive bulkhead doors have begun to close, and if you don't make it through in time, you'll be trapped! You need to grab as many bunnies as you can and get through the bulkheads before they close.
 
@@ -40,6 +40,7 @@ With this solution, you would pick up bunnies 1 and 2. This is the best combinat
 ### Languages
 
 To provide a Python solution, edit solution.py
+
 To provide a Java solution, edit solution.java
 
 ### Test Cases

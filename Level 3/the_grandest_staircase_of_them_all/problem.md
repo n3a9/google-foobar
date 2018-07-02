@@ -1,8 +1,8 @@
-### The Grandest Staircase Of Them All
+## The Grandest Staircase Of Them All
 
 Time to solve: 96 hours.
 
-#### Description
+### Description
 
 With her LAMBCHOP doomsday device finished, Commander Lambda is preparing for her debut on the galactic stage - but in order to make a grand entrance, she needs a grand staircase! As her personal assistant, you've been tasked with figuring out how to build the best staircase EVER.
 
@@ -48,6 +48,7 @@ Write a function called answer(n) that takes a positive integer n and returns th
 ### Languages
 
 To provide a Python solution, edit solution.py
+
 To provide a Java solution, edit solution.java
 
 ### Test Cases
